@@ -105,7 +105,7 @@ Con esto finalizamos el proceso de instalación.
 
 5 - Podemos probar cualquier comando GIT y darnos cuenta que ahora es más grande la ventana y el texto, también podemos notar la transparencia.
 
-![image](https://user-images.githubusercontent.com/54609399/137606595-8a4f93ae-4cb4-4509-9bf9-f2504b97530a.png)
+![image](https://user-images.githubusercontent.com/54609399/137606784-eea506c4-2044-469c-aa36-3653f173b9c5.png)
 
 Con esto terminamos las configuraciones visuales de GIT.
 
