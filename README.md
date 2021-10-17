@@ -57,7 +57,22 @@
 
 ![image](https://user-images.githubusercontent.com/54609399/137605829-488f8f8b-f58f-4c37-9770-d44aa07c4e70.png)
 
+![image](https://user-images.githubusercontent.com/54609399/137605870-cf5d5b0a-62bc-4dc5-9988-220a59538fc6.png)
 
+9 - Si ejecutamos el comando:
+git --version
+Podemos obtener la versión actual instalada en el equipo.
 
+![image](https://user-images.githubusercontent.com/54609399/137605899-1c0a3e1c-d457-485c-a8e9-131fca96be58.png)
 
+10 - También podemos abrir la consola de comandos del sistema operativo y ensayar el comando:
+git --version
+Nos dirá la versión del git instalada.
 
+![image](https://user-images.githubusercontent.com/54609399/137605975-a22407c4-139e-42c4-85f2-fd788966f187.png)
+
+![image](https://user-images.githubusercontent.com/54609399/137605989-d3dd14bb-4f96-471a-b940-cb07613c5989.png)
+
+![image](https://user-images.githubusercontent.com/54609399/137606031-bfc19b18-6fe5-4dca-9c0c-8483ab6b5975.png)
+
+Con esto finalizamos el proceso de instalación.
