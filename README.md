@@ -204,14 +204,4 @@ Nos devuelve a la pantalla de configuración y nos muestra nuestra key creada, t
 
 ![image](https://user-images.githubusercontent.com/54609399/137610362-de3ee25e-664a-43a1-ba32-87a1d06f9d2f.png)
 
-
-
-
-
-
-
-
-
-
-
-
+Con esto ya tenemos la llave generada en GIT y enlazada con GITHUB.
