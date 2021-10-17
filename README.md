@@ -113,6 +113,9 @@ Con esto terminamos las configuraciones visuales de GIT.
 
 IMPORTANTE: LAS SIGUIENTES CONFIGURACIONES SOLO SE HACEN LA PRIMERA VEZ QUE SE INSTALA GIT EN EL EQUIPO, UNA VEZ TERMINADAS NO SE DEBEN VOLVER HACER A MENOS QUE SE FORMATEE EL EQUIPO O SE INSTALA GIT EN UN EQUIPO NUEVO.
 
+Para este paso se recomienda tener ya creada una cuenta de GitHub, si no sabes como crear una cuenta puedes ver la siguiente Guía y luego continuar con estos pasos.
+https://github.com/sanchezcode/Guide_GitHub/blob/main/README.md
+
 1 - Ahora vamos a realizar unas configuraciones globales en el GIT instalado en el equipo, para eso abrimos la consola de Git Bash, desde el buscador de windows, o abrimos una terminal de comandos sean en Windows, Linux o MAC.
 
 ![image](https://user-images.githubusercontent.com/54609399/137608213-f4321cf2-c690-4cac-a2d8-d7396b416ea0.png)
