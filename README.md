@@ -1,5 +1,11 @@
 # Guide_GIT_Windows
 
+Contenido:
+
+- INSTALACIÓN DE GIT EN WINDOWS
+- CONFIGURACIONES VISUALES (OPCIONALES) 
+- CONFIGURACIONES ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB
+
 **** INSTALACIÓN DE GIT EN WINDOWS ****
 
 
@@ -76,3 +82,30 @@ Nos dirá la versión del git instalada.
 ![image](https://user-images.githubusercontent.com/54609399/137606031-bfc19b18-6fe5-4dca-9c0c-8483ab6b5975.png)
 
 Con esto finalizamos el proceso de instalación.
+
+**** CONFIGURACIONES VISUALES (OPCIONALES) ****
+
+1 - Damos click derecho sobre la consola y click izquierdo sobre options.
+
+![image](https://user-images.githubusercontent.com/54609399/137606195-7a605e93-82e4-472f-a33f-42a27d8a4453.png)
+
+2 - En la primera opción de Looks seleccionamos nivel de transparencia si queremos que nuestra consola de comando tenga un fondo semi transparente, podemos elegir entre off, Low, Medium, high dependiendo nuestro gusto, tener en cuenta que Medium y high hacen que se consuman más recursos del sistema como todo efecto de transparencia en interfaces.
+
+![image](https://user-images.githubusercontent.com/54609399/137606312-64f7ef86-37f7-4af1-99bb-79d432123343.png)
+
+3 - Ahora seleccionamos la opción Text y damos click en el botón Select, este nos llevara a una nueva interfaz, donde seleccionaremos el tamaño de la fuente ya que por defecto la consola de Git es muy pequeña, como paso opcional si gustan pueden cambiar también el tipo de fuente. 
+
+![image](https://user-images.githubusercontent.com/54609399/137606535-7b2be7b3-5925-4ec1-b687-8a874a5a28c7.png)
+
+![image](https://user-images.githubusercontent.com/54609399/137606551-aae4d65c-d435-4df5-83d0-aaf986495c21.png)
+
+4 - Luego de dar aceptar en la ventana anterior, volveremos a la de opciones y damos aplicar y cerrar esta ventana de options.
+
+![image](https://user-images.githubusercontent.com/54609399/137606560-c9505ef5-5ac6-4953-bd8c-4c36c3865d16.png)
+
+5 - Podemos probar cualquier comando GIT y darnos cuenta que ahora es más grande la ventana y el texto, también podemos notar la transparencia.
+
+![image](https://user-images.githubusercontent.com/54609399/137606595-8a4f93ae-4cb4-4509-9bf9-f2504b97530a.png)
+
+Con esto terminamos las configuraciones visuales de GIT.
+
