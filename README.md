@@ -6,7 +6,7 @@ Contenido:
 - CONFIGURACIONES VISUALES (OPCIONALES PERO UTILES) 
 - CONFIGURACIONES ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB
 
-**** INSTALACIÓN DE GIT EN WINDOWS ****
+**** INSTALACIÓN DE GIT EN WINDOWS *****
 
 
 1 - Primero entramos a la aplicación de GIT desde la pagina oficial https://git-scm.com/
