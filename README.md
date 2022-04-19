@@ -5,7 +5,7 @@ Contenido:
 - INSTALACIÓN DE GIT EN WINDOWS (10 y 11)
 - INSTALACIÓN DE GIT EN LINUX (UBUNTU)
 - CONFIGURACIONES VISUALES (OPCIONALES PERO UTILES) 
-- CONFIGURACIONES ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB
+- CONFIGURACIONES SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB
 
 **** INSTALACIÓN DE GIT EN WINDOWS *****
 
@@ -90,6 +90,54 @@ Con esto finalizamos el proceso de instalación.
 
 **** INSTALACIÓN DE GIT EN LINUX *****
 
+Para instalar en linux es mas facil que en cualquier otro sistema, recordemos que el creador de linux es el creador de GIT
+
+1 - Abrimos una terminal y ejecutamos el siguiente comando:
+```
+sudo apt-get install git
+```
+
+![image](https://user-images.githubusercontent.com/54609399/163902758-5a554231-c51c-44f6-8bc7-7bdfe8e966c5.png)
+
+2 - Nos pedira nuestra clave de usuario y una confirmación para descargar los paquetes necesarios a la cual daremos que si con una "s"
+
+![image](https://user-images.githubusercontent.com/54609399/163902917-8f0789a8-6c4f-4aa1-a71c-ed51ad12522e.png)
+
+3 - Nos fijamos en la versión que quedo instalada usando el comando:
+```
+git --version
+```
+![image](https://user-images.githubusercontent.com/54609399/163903342-7b0eeca4-d4f6-44b9-b27a-32433050f895.png)
+
+3 - Confirmamos con la version oficial que esta en la pagina oficial de GIT
+https://git-scm.com/
+
+![image](https://user-images.githubusercontent.com/54609399/163903572-beb5e7ad-6596-40a9-b189-caf28db388b3.png)
+
+4 - Como podemos ver nos toca hacer un salto a la siguiente versión para ello solo usamos el siguiente comando;
+```
+sudo add-apt-repository ppa:git-core/ppa
+```
+Este comando nos pedira presionar ENTER para confirmar
+
+![image](https://user-images.githubusercontent.com/54609399/163904033-23015f19-ddb6-4702-9119-c41706c7486d.png)
+
+5 - Para finalizar solo ejecutamos los siguientes comandos:
+```
+sudo apt-get update
+```
+```
+sudo apt-get upgrade
+```
+```
+git --version
+```
+
+Con esto ya tendremos la ultima versión instalada en nuestro equipo
+
+![image](https://user-images.githubusercontent.com/54609399/163904343-979f2092-f0d5-4538-89d0-cc28c742362a.png)
+
+
 **** CONFIGURACIONES VISUALES (OPCIONALES) ****
 
 1 - Damos click derecho sobre la consola y click izquierdo sobre options.
@@ -168,7 +216,9 @@ Y luego si escribimos los comandos correctos descritos en el punto 2
 
 4 - Como GitHub ya no usa el “master” nos toca cambiar esta opción en GIT local, para cambiarlo usamos el siguiente comando.
 
+```
 git config --global init.defaultBranch main
+```
 
 ![image](https://user-images.githubusercontent.com/54609399/137609760-4ee59c67-5944-41ee-9564-93568d9cbb92.png)
 
