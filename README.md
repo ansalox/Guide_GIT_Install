@@ -67,13 +67,17 @@ Contenido:
 ![image](https://user-images.githubusercontent.com/54609399/137605870-cf5d5b0a-62bc-4dc5-9988-220a59538fc6.png)
 
 9 - Si ejecutamos el comando:
+```
 git --version
+```
 Podemos obtener la versión actual instalada en el equipo.
 
 ![image](https://user-images.githubusercontent.com/54609399/137605899-1c0a3e1c-d457-485c-a8e9-131fca96be58.png)
 
 10 - También podemos abrir la consola de comandos del sistema operativo y ensayar el comando:
+```
 git --version
+```
 Nos dirá la versión del git instalada.
 
 ![image](https://user-images.githubusercontent.com/54609399/137605975-a22407c4-139e-42c4-85f2-fd788966f187.png)
@@ -125,8 +129,12 @@ https://github.com/sanchezcode/Guide_GitHub/blob/main/README.md
 
 2 - Primero tenemos que configurar nombre de usuario y correo de GitHub, para ello usamos los siguientes comandos, debemos asegurarnos que el nombre de usuario cumpla exactamente el que creamos en GitHub respetando mayúsculas, minúsculas en caso tal que las hayamos usado, igualmente el correo debe ser el mismo que se usó para crear la cuenta.
 
+```
 git config --global user.name “SuUsuarioDeGitHub”
+```
+```
 git config --global user.email “SuCorreo@correo.com”
+```
 
 Por cada comando damos ENTER
 
@@ -134,7 +142,9 @@ Por cada comando damos ENTER
 
 3 - Verificamos si las configuraciones quedaron bien con el siguiente comando
 
+```
 git config --list
+```
 
 Este comando nos muestra las configuraciones de GIT en nuestro sistema operativo y deben aparecer las opciones que agregamos de user.name y user.email.
 
@@ -146,7 +156,11 @@ NOTA: En caso tal que hayamos escrito mal el user.email o user.name ejemplo: use
 
 Para solucionar el error de la imagen anterior ejecutamos el siguiente comando que elimina esta opción errada.
 
-git config --global --unset-all user.nemail (o lo que hayamos escrito mal)
+```
+git config --global --unset-all user.nemail
+```
+
+Cambiar "user.nemail" por lo que hayan escrito mal
 
 ![image](https://user-images.githubusercontent.com/54609399/137609746-4bae2412-0ea3-49a0-8e96-960afe47eced.png)
 
