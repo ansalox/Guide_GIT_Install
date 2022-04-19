@@ -1,4 +1,4 @@
-# Guide_GIT_Windows
+# Guide_GIT_Install
 
 Contenido:
 
