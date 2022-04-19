@@ -2,7 +2,8 @@
 
 Contenido:
 
-- INSTALACIÓN DE GIT EN WINDOWS
+- INSTALACIÓN DE GIT EN WINDOWS (10 y 11)
+- INSTALACIÓN DE GIT EN LINUX (UBUNTU)
 - CONFIGURACIONES VISUALES (OPCIONALES PERO UTILES) 
 - CONFIGURACIONES ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB
 
@@ -82,6 +83,8 @@ Nos dirá la versión del git instalada.
 ![image](https://user-images.githubusercontent.com/54609399/137606031-bfc19b18-6fe5-4dca-9c0c-8483ab6b5975.png)
 
 Con esto finalizamos el proceso de instalación.
+
+**** INSTALACIÓN DE GIT EN LINUX *****
 
 **** CONFIGURACIONES VISUALES (OPCIONALES) ****
 
