@@ -192,9 +192,12 @@ IMPORTANTE: LAS SIGUIENTES CONFIGURACIONES SOLO SE HACEN LA PRIMERA VEZ QUE SE I
 Para este paso se recomienda tener ya creada una cuenta de GitHub, si no sabes como crear una cuenta puedes ver la siguiente Guía y luego continuar con estos pasos.
 https://github.com/sanchezcode/Guide_GitHub/blob/main/README.md
 
-1 - Ahora vamos a realizar unas configuraciones globales en el GIT instalado en el equipo, para eso abrimos la consola de Git Bash, desde el buscador de windows, o abrimos una terminal de comandos sean en Windows, Linux o MAC.
+1 - Ahora vamos a realizar unas configuraciones globales en el GIT instalado en el equipo, para eso abrimos la consola de Git Bash en Windows o Terminal de Linux.
 
 ![image](https://user-images.githubusercontent.com/54609399/137608213-f4321cf2-c690-4cac-a2d8-d7396b416ea0.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167239802-278e448f-dc57-470d-8ca9-fb0b00fc9eee.png)
+
 
 2 - Primero tenemos que configurar nombre de usuario y correo de GitHub, para ello usamos los siguientes comandos, debemos asegurarnos que el nombre de usuario cumpla exactamente el que creamos en GitHub respetando mayúsculas, minúsculas en caso tal que las hayamos usado, igualmente el correo debe ser el mismo que se usó para crear la cuenta.
 
@@ -205,9 +208,10 @@ git config --global user.name “SuUsuarioDeGitHub”
 git config --global user.email “SuCorreo@correo.com”
 ```
 
-Por cada comando damos ENTER
-
 ![image](https://user-images.githubusercontent.com/54609399/137609421-9ab3e6ec-f88c-44a3-9e2d-de9e4f250355.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167239885-9945d6ac-53e3-4d6e-9837-1bdb3645dd83.png)
+
 
 3 - Verificamos si las configuraciones quedaron bien con el siguiente comando
 
@@ -218,6 +222,9 @@ git config --list
 Este comando nos muestra las configuraciones de GIT en nuestro sistema operativo y deben aparecer las opciones que agregamos de user.name y user.email.
 
 ![image](https://user-images.githubusercontent.com/54609399/137609681-f0fc6551-5778-4f75-9b19-5eadbbd70aaa.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167239916-ad7628e7-4fef-40a2-a9bd-4783a6522e6d.png)
+
 
 NOTA: En caso tal que hayamos escrito mal el user.email o user.name ejemplo: user.nemail o user.names, estas opciones no son válidas:
 
@@ -243,7 +250,10 @@ git config --global init.defaultBranch main
 
 ![image](https://user-images.githubusercontent.com/54609399/137609760-4ee59c67-5944-41ee-9564-93568d9cbb92.png)
 
-Si ejecutamos el comando
+![image](https://user-images.githubusercontent.com/54609399/167239973-bd3a2564-760f-4495-9f7f-76902c5aef92.png)
+
+
+Verificamos con el comando
 
 ```
 git config --list
@@ -252,6 +262,9 @@ git config --list
 Podemos ver que aparece en las opciones
 
 ![image](https://user-images.githubusercontent.com/54609399/137609788-ccd67733-f7b9-4294-b2d1-3f44c3918b02.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167239993-5d3110a1-16e0-47a8-9bc6-1b9d1954b08f.png)
+
 
 5 - Ahora necesitamos generar una clave SSH (Secure Shell) para GitHub, esto hará que GIT local y GITHUB se comuniquen por medio de una llave de conexión, escribimos el siguiente comando.
 
@@ -265,6 +278,9 @@ En conclusión, después de escribir el comando ssh-keygen y presionar enter, no
 
 ![image](https://user-images.githubusercontent.com/54609399/137609967-07d20717-839c-428c-bfbe-2475088ee49b.png)
 
+![image](https://user-images.githubusercontent.com/54609399/167240020-f1e7f1ea-effb-46e0-b91d-c583275b5565.png)
+
+
 6 - Ahora podemos mostrar nuestra llave aplicando el siguiente comando y presionando ENTER:
 
 ```
@@ -273,9 +289,15 @@ cat ~/.ssh/id_rsa.pub
 
 ![image](https://user-images.githubusercontent.com/54609399/137610010-b6f0efe4-225e-4ee5-be27-5df7ba9402f9.png)
 
+![image](https://user-images.githubusercontent.com/54609399/167240163-16f51296-6f64-4866-9037-a99dce25b514.png)
+
+
 Luego de generarla la copiamos sin espacios vacíos, ya que vamos a tener que pegarla en GITHUB.
 
 ![image](https://user-images.githubusercontent.com/54609399/137610051-53ca2cbc-c085-4ba3-b528-e4c01061241d.png)
+
+![image](https://user-images.githubusercontent.com/54609399/167240187-f6c35378-61a5-4e2f-a5ec-8297c69bd723.png)
+
 
 7 - Ahora vamos a pegar la clave en GITHUB pero primero tenemos que ir a nuestro usuario/perfil y damos click  a settings.
 
