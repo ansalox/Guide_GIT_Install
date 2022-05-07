@@ -3,12 +3,13 @@
 Contenido:
 
 - INSTALACIÓN DE GIT EN WINDOWS (10 y 11)
-- INSTALACIÓN DE GIT EN LINUX (UBUNTU)
-- CONFIGURACIONES VISUALES (OPCIONALES PERO UTILES) 
-- CONFIGURACIONES SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB
+- INSTALACIÓN DE GIT EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS)
+- CONFIGURACIONES VISUALES EN GITBASH OPCIONALES PERO UTILES (WINDOWS)
+- CONFIGURACIONES OBLIGATORIAS SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB (WINDOWS Y LINUX)
+________________________________________
 
-**** INSTALACIÓN DE GIT EN WINDOWS *****
-
+**** INSTALACIÓN DE GIT EN WINDOWS (10 y 11) *****
+________________________________________
 
 1 - Primero entramos a la aplicación de GIT desde la pagina oficial https://git-scm.com/
 
@@ -88,57 +89,74 @@ Nos dirá la versión del git instalada.
 
 Con esto finalizamos el proceso de instalación.
 
-**** INSTALACIÓN DE GIT EN LINUX *****
+________________________________________
+
+**** INSTALACIÓN DE GIT EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS) *****
+________________________________________
 
 Para instalar en linux es mas facil que en cualquier otro sistema, recordemos que el creador de linux es el creador de GIT
 
-1 - Abrimos una terminal y ejecutamos el siguiente comando:
+1 - Abrimos una terminal y ejecutamos el siguiente comando y presionamos ENTER:
+
 ```
 sudo apt-get install git
 ```
 
-![image](https://user-images.githubusercontent.com/54609399/163902758-5a554231-c51c-44f6-8bc7-7bdfe8e966c5.png)
+![image](https://user-images.githubusercontent.com/54609399/167239184-499524ba-15f8-4bb7-8705-e7833cda84ec.png)
 
-2 - Nos pedira nuestra clave de usuario y una confirmación para descargar los paquetes necesarios a la cual daremos que si con una "s"
+2 - Nos pedira nuestra clave de usuario y una confirmación para descargar los paquetes necesarios a la cual daremos que si con una "s" en equipos en español y "y" en equipos en ingles
 
 ![image](https://user-images.githubusercontent.com/54609399/163902917-8f0789a8-6c4f-4aa1-a71c-ed51ad12522e.png)
 
 3 - Nos fijamos en la versión que quedo instalada usando el comando:
+
 ```
 git --version
 ```
-![image](https://user-images.githubusercontent.com/54609399/163903342-7b0eeca4-d4f6-44b9-b27a-32433050f895.png)
 
-3 - Confirmamos con la version oficial que esta en la pagina oficial de GIT
+![image](https://user-images.githubusercontent.com/54609399/167239259-d0cf653c-61cc-4b18-a9d7-3a57c70c2bd6.png)
+
+4 - Comparamos con la version oficial que esta en la pagina oficial de GIT
+
 https://git-scm.com/
 
-![image](https://user-images.githubusercontent.com/54609399/163903572-beb5e7ad-6596-40a9-b189-caf28db388b3.png)
+![image](https://user-images.githubusercontent.com/54609399/167239277-4689287d-900f-4956-a665-2b58f41135af.png)
 
-4 - Como podemos ver nos toca hacer un salto a la siguiente versión para ello solo usamos el siguiente comando;
+4 - Como podemos ver nos toca hacer un salto a la siguiente versión estable, para ello solo usamos el siguiente comando:
+
 ```
 sudo add-apt-repository ppa:git-core/ppa
 ```
+
 Este comando nos pedira presionar ENTER para confirmar
 
-![image](https://user-images.githubusercontent.com/54609399/163904033-23015f19-ddb6-4702-9119-c41706c7486d.png)
+![image](https://user-images.githubusercontent.com/54609399/167239357-97cd3b1d-9cab-47d4-a0ab-6eacb324b481.png)
 
 5 - Para finalizar solo ejecutamos los siguientes comandos:
+
+Actualizar paquetes con 
+
 ```
 sudo apt-get update
 ```
 ```
 sudo apt-get upgrade
 ```
+
+6 - Verificamos nuecamente la versión
 ```
 git --version
 ```
 
 Con esto ya tendremos la ultima versión instalada en nuestro equipo
 
-![image](https://user-images.githubusercontent.com/54609399/163904343-979f2092-f0d5-4538-89d0-cc28c742362a.png)
+![image](https://user-images.githubusercontent.com/54609399/167239499-138e8724-f51e-4d26-a41a-f3e0235d7b58.png)
 
 
-**** CONFIGURACIONES VISUALES (OPCIONALES) ****
+________________________________________
+
+**** CONFIGURACIONES VISUALES EN GITBASH OPCIONALES PERO UTILES (WINDOWS) *****
+________________________________________
 
 1 - Damos click derecho sobre la consola y click izquierdo sobre options.
 
@@ -164,7 +182,10 @@ Con esto ya tendremos la ultima versión instalada en nuestro equipo
 
 Con esto terminamos las configuraciones visuales de GIT.
 
-**** CONFIGURACIONES ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB ****
+________________________________________
+
+**** CONFIGURACIONES OBLIGATORIAS SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB (WINDOWS Y LINUX) ****
+________________________________________
 
 IMPORTANTE: LAS SIGUIENTES CONFIGURACIONES SOLO SE HACEN LA PRIMERA VEZ QUE SE INSTALA GIT EN EL EQUIPO, UNA VEZ TERMINADAS NO SE DEBEN VOLVER HACER A MENOS QUE SE FORMATEE EL EQUIPO O SE INSTALA GIT EN UN EQUIPO NUEVO.
 
