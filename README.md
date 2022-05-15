@@ -15,9 +15,14 @@ ________________________________________
 
 2 - Ya dentro de la página descargamos la última versión estable para nuestro sistema operativo el cual la pagina detecta automaticamente.
 
-![image](https://user-images.githubusercontent.com/54609399/137605497-1da570ce-d91f-4f81-9dd5-a9606fb441db.png)
+![image](https://user-images.githubusercontent.com/54609399/168494367-933c2553-d20f-4ea9-84bc-2ece0c16ded9.png)
 
-3 - Una vez descargado procedemos a dar doble click al ejecutable para iniciar la instalación.
+Siempre descarga el instalador al dar click en el boton pero en ocaciones nos puede enviar para una pagina dicional y damos click aqui:
+
+![image](https://user-images.githubusercontent.com/54609399/168494407-dca79939-d609-4d0f-bb09-4d83bf60d37c.png)
+
+
+3 - Una vez descargado procedemos a dar doble click al ejecutable para iniciar la instalación y hacemos los siguientes pasos.
 
 ![image](https://user-images.githubusercontent.com/54609399/137605572-8012379e-2220-4f11-9ebd-06ce22e43bff.png)
 
@@ -33,9 +38,9 @@ ________________________________________
 
 ![image](https://user-images.githubusercontent.com/54609399/137605685-de35d755-7576-45d2-a4fc-77bf328fb520.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605691-aec3cbc1-d24d-4103-b911-99adf618a6d7.png)
+Muy importante seleccionar aqui la opcion main para que genere los repositorios locales sobre esta rama y no la master que ya no se usa
 
-![image](https://user-images.githubusercontent.com/54609399/137605707-736b291c-a71f-43a2-9ef0-73da3519d4fe.png)
+![image](https://user-images.githubusercontent.com/54609399/168494504-1fed177d-b468-4d99-8c0d-3ea79ab69757.png)
 
 ![image](https://user-images.githubusercontent.com/54609399/137605713-d574ab9e-a225-4a9d-a605-45b609c50db9.png)
 
@@ -49,7 +54,7 @@ ________________________________________
 
 ![image](https://user-images.githubusercontent.com/54609399/137605750-95daa51c-759e-4031-8986-2aa9b69c1c6d.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605754-1aef6721-e35b-4929-ae9d-eaf3a9151bd8.png)
+![image](https://user-images.githubusercontent.com/54609399/168494601-eefc0bd4-4d55-4aa8-aeaf-cd4713b3f721.png)
 
 ![image](https://user-images.githubusercontent.com/54609399/137605761-849aee04-e128-47ef-b943-736784f7a9a4.png)
 
@@ -80,6 +85,8 @@ Podemos obtener la versión actual instalada en el equipo.
 git --version
 ```
 Nos dirá la versión del git instalada.
+
+Podemos comprobarlo en nuestra cmd de Windows.
 
 ![image](https://user-images.githubusercontent.com/54609399/137605975-a22407c4-139e-42c4-85f2-fd788966f187.png)
 
