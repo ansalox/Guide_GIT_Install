@@ -15,48 +15,56 @@ ________________________________________
 
 2 - Ya dentro de la página descargamos la última versión estable para nuestro sistema operativo el cual la pagina detecta automaticamente.
 
-![image](https://user-images.githubusercontent.com/54609399/168494367-933c2553-d20f-4ea9-84bc-2ece0c16ded9.png)
+![image](https://user-images.githubusercontent.com/54609399/201503040-d6b4be25-492b-4bd4-ba74-75432b3acb0e.png)
 
 Siempre descarga el instalador al dar click en el boton pero en ocaciones nos puede enviar para una pagina dicional y damos click aqui:
 
-![image](https://user-images.githubusercontent.com/54609399/168494407-dca79939-d609-4d0f-bb09-4d83bf60d37c.png)
+![image](https://user-images.githubusercontent.com/54609399/201503078-3b94de5a-2831-433b-a7ea-6f473f06bc6c.png)
 
 
 3 - Una vez descargado procedemos a dar doble click al ejecutable para iniciar la instalación y hacemos los siguientes pasos.
 
-![image](https://user-images.githubusercontent.com/54609399/137605572-8012379e-2220-4f11-9ebd-06ce22e43bff.png)
+![image](https://user-images.githubusercontent.com/54609399/201503113-48e501ab-f4e3-4d01-bf01-941b2e8d248a.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605582-6cf19839-94a5-4c20-b9c3-b9eec196cbb5.png)
+![image](https://user-images.githubusercontent.com/54609399/201503123-152fce12-9fc8-4d33-956e-2f2c65c10d45.png)
+
+![image](https://user-images.githubusercontent.com/54609399/201503164-2efa276e-0909-4f13-b66e-0da471854d34.png)
+
 
 4 - Dar check en todas las opciones ya que estas nos permiten añadir GIT en la consola del sistema (CMD), y generan accesos directos en el inicio y en las opciones de click derecho sobre las carpetas, también generan la consola GIT Bash que será una herramienta útil para trabajar GIT. (Es como la consola de comandos pero propia de GIT).
 
-![image](https://user-images.githubusercontent.com/54609399/137605632-db08ce05-4f7c-4ed6-be9a-d14693c498f5.png)
+![image](https://user-images.githubusercontent.com/54609399/201503187-f148af43-5e91-4df0-84cf-5fe304cd9e54.png)
 
 5 - Para los siguientes pasos no se debe modificar ninguna opción, como tampoco dar check en ninguna de las configuraciones que muestra, ya que estas configuraciones adicionales al seleccionarlas pueden generar algunos errores que nos toque solucionar con configuraciones extra, por eso para todas las ventanas de aquí en adelante se dará únicamente click en NEXT.
 
-![image](https://user-images.githubusercontent.com/54609399/137605677-2e9f7120-3376-4471-b8e2-f017aaec30e1.png)
+![image](https://user-images.githubusercontent.com/54609399/201503214-a5d41db1-cdd9-4f96-b377-ac15485d5455.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605685-de35d755-7576-45d2-a4fc-77bf328fb520.png)
+![image](https://user-images.githubusercontent.com/54609399/201503239-3e084674-56fd-4cf4-bc72-9995f12ec282.png)
 
 Muy importante seleccionar aqui la opcion main para que genere los repositorios locales sobre esta rama y no la master que ya no se usa
 
-![image](https://user-images.githubusercontent.com/54609399/168494504-1fed177d-b468-4d99-8c0d-3ea79ab69757.png)
+![image](https://user-images.githubusercontent.com/54609399/201503264-ff6f214c-76b4-4d3c-9e42-fcf5475e313c.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605713-d574ab9e-a225-4a9d-a605-45b609c50db9.png)
+Continamos con las siguientes opciones dando NEXT sin modificar ninguna opción
 
-![image](https://user-images.githubusercontent.com/54609399/137605731-f12a2a0d-27c0-4e85-9ce6-8f720f759e25.png)
+![image](https://user-images.githubusercontent.com/54609399/201503283-05c8d1dc-e988-44bd-b959-d2ba28cae3b7.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605738-b4beea3a-ae35-44bd-883c-fd29f5268b62.png)
+![image](https://user-images.githubusercontent.com/54609399/201503294-b54d04fb-e41a-457d-af29-d7e5820a0ebe.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605739-bc553f86-4f42-4c65-9fd7-1338987baa1e.png)
+![image](https://user-images.githubusercontent.com/54609399/201503301-3b3d318e-53ad-498e-97ad-f768a41d7f80.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605743-338ec574-2c76-4043-aa5b-bee801d743fd.png)
+![image](https://user-images.githubusercontent.com/54609399/201503314-668b3ac6-f134-4e3e-896d-289cfb0d5a80.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605750-95daa51c-759e-4031-8986-2aa9b69c1c6d.png)
+![image](https://user-images.githubusercontent.com/54609399/201503326-5c3e3e29-1021-4c77-9ffe-94422e4cc8a6.png)
 
-![image](https://user-images.githubusercontent.com/54609399/168494601-eefc0bd4-4d55-4aa8-aeaf-cd4713b3f721.png)
+![image](https://user-images.githubusercontent.com/54609399/201503336-83a1f9e5-2a5f-425c-ba6f-b204b2d3033e.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137605761-849aee04-e128-47ef-b943-736784f7a9a4.png)
+![image](https://user-images.githubusercontent.com/54609399/201503351-083c4a52-d744-45fa-855d-d20f904ddb3d.png)
+
+![image](https://user-images.githubusercontent.com/54609399/201503362-84cfe82d-0a38-45c6-8cb3-344468f68344.png)
+
+![image](https://user-images.githubusercontent.com/54609399/201503377-0f3cd240-81eb-4279-b9dc-c2f081da8f2f.png)
+
 
 6 - Para finalizar procedemos a dar click en el botón Install.
 
@@ -64,11 +72,11 @@ Muy importante seleccionar aqui la opcion main para que genere los repositorios 
 
 7 - Iniciará el proceso de instalación y configuración de GIT en nuestro equipo, en este paso solo nos toca esperar a que finalice.
 
-![image](https://user-images.githubusercontent.com/54609399/137605783-6d0dbb00-c416-4f20-bf0e-dad4d6a04ec0.png)
+![image](https://user-images.githubusercontent.com/54609399/201503389-fcfd1e5a-2c4d-4c31-8b39-80ddde7dd951.png)
 
 8 - Una vez finalizado dejamos solo el check de Launch Git Bash, y damos click en Finish, esto nos abrirá la consola en la cual podemos trabajar GIT.
 
-![image](https://user-images.githubusercontent.com/54609399/137605829-488f8f8b-f58f-4c37-9770-d44aa07c4e70.png)
+![image](https://user-images.githubusercontent.com/54609399/201503399-59be34ed-cc52-4a16-a36a-bd0d3ccac6e1.png)
 
 ![image](https://user-images.githubusercontent.com/54609399/137605870-cf5d5b0a-62bc-4dc5-9988-220a59538fc6.png)
 
