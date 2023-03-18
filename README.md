@@ -228,6 +228,17 @@ git config --global user.email “SuCorreo@correo.com”
 ![image](https://user-images.githubusercontent.com/54609399/167239885-9945d6ac-53e3-4d6e-9837-1bdb3645dd83.png)
 
 
+coloración util de GIT
+```
+git config --global color.ui auto
+```
+
+Ayudar a predecir el comando que queremos escribir
+```
+git config --global help.autocorrect 1
+```
+
+
 3 - Verificamos si las configuraciones quedaron bien con el siguiente comando
 
 ```
