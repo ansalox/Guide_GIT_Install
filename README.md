@@ -127,7 +127,9 @@ Con esto finalizamos el proceso de instalación.
 
 ________________________________________
 
-**** INSTALACIÓN DE GIT EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS) *****
+***
+<details><summary> INSTALACIÓN DE GIT EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS) </summary>
+***
 ________________________________________
 
 Para instalar en linux es mas facil que en cualquier otro sistema, recordemos que el creador de linux es el creador de GIT
@@ -191,7 +193,9 @@ Con esto ya tendremos la ultima versión instalada en nuestro equipo
 
 ________________________________________
 
-**** CONFIGURACIONES VISUALES EN GITBASH OPCIONALES PERO UTILES (WINDOWS) *****
+***
+<details><summary>CONFIGURACIONES VISUALES EN GITBASH OPCIONALES PERO UTILES (WINDOWS) </summary>
+***
 ________________________________________
 
 1 - Damos click derecho sobre la consola y click izquierdo sobre options.
@@ -220,7 +224,9 @@ Con esto terminamos las configuraciones visuales de GIT.
 
 ________________________________________
 
-**** CONFIGURACIONES OBLIGATORIAS SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB (WINDOWS Y LINUX) ****
+***
+<details><summary> CONFIGURACIONES OBLIGATORIAS SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB (WINDOWS Y LINUX) </summary>
+***
 ________________________________________
 
 IMPORTANTE: LAS SIGUIENTES CONFIGURACIONES SOLO SE HACEN LA PRIMERA VEZ QUE SE INSTALA GIT EN EL EQUIPO, UNA VEZ TERMINADAS NO SE DEBEN VOLVER HACER A MENOS QUE SE FORMATEE EL EQUIPO O SE INSTALA GIT EN UN EQUIPO NUEVO.
