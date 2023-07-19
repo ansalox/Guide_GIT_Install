@@ -17,43 +17,51 @@ ________________________________________
 
 2 - Ya dentro de la página descargamos la última versión estable para nuestro sistema operativo el cual la pagina detecta automaticamente.
 
-![image](https://user-images.githubusercontent.com/54609399/201503040-d6b4be25-492b-4bd4-ba74-75432b3acb0e.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/3437c280-353d-404d-9fdf-59072a102591)
+
 
 Siempre descarga el instalador al dar click en el boton pero en ocaciones nos puede enviar para una pagina dicional y damos click aqui:
 
-![image](https://user-images.githubusercontent.com/54609399/201503078-3b94de5a-2831-433b-a7ea-6f473f06bc6c.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/87f91855-68ad-4151-a421-94d20f11f1fb)
 
 
 3 - Una vez descargado procedemos a dar doble click al ejecutable para iniciar la instalación y hacemos los siguientes pasos.
 
-![image](https://user-images.githubusercontent.com/54609399/201503113-48e501ab-f4e3-4d01-bf01-941b2e8d248a.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/03a551a4-c864-41ac-ba6c-863ce07ddcfb)
 
-![image](https://user-images.githubusercontent.com/54609399/201503123-152fce12-9fc8-4d33-956e-2f2c65c10d45.png)
 
-![image](https://user-images.githubusercontent.com/54609399/201503164-2efa276e-0909-4f13-b66e-0da471854d34.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/b9002b37-dc32-4b06-9161-fba553b30003)
+
 
 
 4 - Dar check en todas las opciones ya que estas nos permiten añadir GIT en la consola del sistema (CMD), y generan accesos directos en el inicio y en las opciones de click derecho sobre las carpetas, también generan la consola GIT Bash que será una herramienta útil para trabajar GIT. (Es como la consola de comandos pero propia de GIT).
 
-![image](https://user-images.githubusercontent.com/54609399/201503187-f148af43-5e91-4df0-84cf-5fe304cd9e54.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/53ca8693-0df4-4d1a-a575-340f0694d456)
+
 
 5 - Para los siguientes pasos no se debe modificar ninguna opción, como tampoco dar check en ninguna de las configuraciones que muestra, ya que estas configuraciones adicionales al seleccionarlas pueden generar algunos errores que nos toque solucionar con configuraciones extra, por eso para todas las ventanas de aquí en adelante se dará únicamente click en NEXT.
 
-![image](https://user-images.githubusercontent.com/54609399/201503214-a5d41db1-cdd9-4f96-b377-ac15485d5455.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/e38cf5c1-a13f-408c-b1cb-d182d32f9f1e)
 
-![image](https://user-images.githubusercontent.com/54609399/201503239-3e084674-56fd-4cf4-bc72-9995f12ec282.png)
+
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/34d53d29-d309-4f9c-8d34-7e67755bc509)
+
 
 Muy importante seleccionar aqui la opcion main para que genere los repositorios locales sobre esta rama y no la master que ya no se usa
 
-![image](https://user-images.githubusercontent.com/54609399/201503264-ff6f214c-76b4-4d3c-9e42-fcf5475e313c.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/5256b963-66c0-4c59-beaf-2dde54f71da6)
+
 
 Continamos con las siguientes opciones dando NEXT sin modificar ninguna opción
 
-![image](https://user-images.githubusercontent.com/54609399/201503283-05c8d1dc-e988-44bd-b959-d2ba28cae3b7.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/7b978fac-e1c6-4778-85ba-7a8c36236614)
 
-![image](https://user-images.githubusercontent.com/54609399/201503294-b54d04fb-e41a-457d-af29-d7e5820a0ebe.png)
 
-![image](https://user-images.githubusercontent.com/54609399/201503301-3b3d318e-53ad-498e-97ad-f768a41d7f80.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/c8ba2c98-643c-4dfe-a644-adba81eed840)
+
+
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/28821c16-d941-46f2-9ff1-a7d0382db652)
+
 
 ![image](https://user-images.githubusercontent.com/54609399/201503314-668b3ac6-f134-4e3e-896d-289cfb0d5a80.png)
 
