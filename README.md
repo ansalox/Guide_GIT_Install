@@ -124,7 +124,7 @@ Podemos comprobarlo en nuestra cmd de Windows.
 
 
 Con esto finalizamos el proceso de instalación.
-
+</details>
 ________________________________________
 
 ***
