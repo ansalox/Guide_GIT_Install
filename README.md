@@ -8,7 +8,9 @@ Contenido:
 - CONFIGURACIONES OBLIGATORIAS SSH ANTES DE INICIAR A TRABAJAR CON GIT Y GITHUB (WINDOWS Y LINUX)
 ________________________________________
 
-**** INSTALACIÓN DE GIT EN WINDOWS (10 y 11) *****
+***
+<details><summary> INSTALACIÓN DE GIT EN WINDOWS (10 y 11) </summary>
+***
 ________________________________________
 
 1 - Primero entramos a la aplicación de GIT desde la pagina oficial https://git-scm.com/
