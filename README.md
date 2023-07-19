@@ -190,7 +190,7 @@ Con esto ya tendremos la ultima versión instalada en nuestro equipo
 
 ![image](https://user-images.githubusercontent.com/54609399/167239499-138e8724-f51e-4d26-a41a-f3e0235d7b58.png)
 
-
+</details>
 ________________________________________
 
 ***
@@ -222,6 +222,7 @@ ________________________________________
 
 Con esto terminamos las configuraciones visuales de GIT.
 
+</details>
 ________________________________________
 
 ***
