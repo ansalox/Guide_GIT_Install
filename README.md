@@ -63,32 +63,41 @@ Continamos con las siguientes opciones dando NEXT sin modificar ninguna opción
 ![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/28821c16-d941-46f2-9ff1-a7d0382db652)
 
 
-![image](https://user-images.githubusercontent.com/54609399/201503314-668b3ac6-f134-4e3e-896d-289cfb0d5a80.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/4a4dd5c2-e4c1-499e-abd6-e34a72cb1128)
 
-![image](https://user-images.githubusercontent.com/54609399/201503326-5c3e3e29-1021-4c77-9ffe-94422e4cc8a6.png)
 
-![image](https://user-images.githubusercontent.com/54609399/201503336-83a1f9e5-2a5f-425c-ba6f-b204b2d3033e.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/2634453f-b300-4b24-bf8a-91e7f484f4b3)
 
-![image](https://user-images.githubusercontent.com/54609399/201503351-083c4a52-d744-45fa-855d-d20f904ddb3d.png)
 
-![image](https://user-images.githubusercontent.com/54609399/201503362-84cfe82d-0a38-45c6-8cb3-344468f68344.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/ac09fc39-5357-4b82-980b-7a940e9accee)
 
-![image](https://user-images.githubusercontent.com/54609399/201503377-0f3cd240-81eb-4279-b9dc-c2f081da8f2f.png)
 
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/f8b1bae8-aa2e-4dfd-b8c3-cb7b17af2b22)
+
+
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/157256ee-a8dd-4ae1-8abd-bfd3dca6ac65)
 
 6 - Para finalizar procedemos a dar click en el botón Install.
 
-![image](https://user-images.githubusercontent.com/54609399/137605770-f99f3f1d-fbe5-426d-a2cd-f6efc280bec2.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/ff70c6b6-7046-4785-b165-7bc54ef2452d)
+
+
+
+
+
 
 7 - Iniciará el proceso de instalación y configuración de GIT en nuestro equipo, en este paso solo nos toca esperar a que finalice.
 
-![image](https://user-images.githubusercontent.com/54609399/201503389-fcfd1e5a-2c4d-4c31-8b39-80ddde7dd951.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/c9f2e146-cb60-4dcb-b680-0442e66aa929)
+
 
 8 - Una vez finalizado dejamos solo el check de Launch Git Bash, y damos click en Finish, esto nos abrirá la consola en la cual podemos trabajar GIT.
 
-![image](https://user-images.githubusercontent.com/54609399/201503399-59be34ed-cc52-4a16-a36a-bd0d3ccac6e1.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/cd0e3ee5-e5f2-4166-b859-c08130c89802)
 
-![image](https://user-images.githubusercontent.com/54609399/137605870-cf5d5b0a-62bc-4dc5-9988-220a59538fc6.png)
+
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/c9aca540-53d7-4c0e-95e2-4b02ea23010f)
+
 
 9 - Si ejecutamos el comando:
 ```
@@ -96,7 +105,8 @@ git --version
 ```
 Podemos obtener la versión actual instalada en el equipo.
 
-![image](https://user-images.githubusercontent.com/54609399/137605899-1c0a3e1c-d457-485c-a8e9-131fca96be58.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/a0045f02-aa6e-4230-b5c9-60ab6e22e9bc)
+
 
 10 - También podemos abrir la consola de comandos del sistema operativo y ensayar el comando:
 ```
@@ -110,7 +120,8 @@ Podemos comprobarlo en nuestra cmd de Windows.
 
 ![image](https://user-images.githubusercontent.com/54609399/137605989-d3dd14bb-4f96-471a-b940-cb07613c5989.png)
 
-![image](https://user-images.githubusercontent.com/54609399/137606031-bfc19b18-6fe5-4dca-9c0c-8483ab6b5975.png)
+![image](https://github.com/ansanchexz/Guide_GIT_Install/assets/54609399/018bca0e-a2c1-4c0c-93db-c470b62facdd)
+
 
 Con esto finalizamos el proceso de instalación.
 
