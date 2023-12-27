@@ -323,7 +323,7 @@ Podemos ver que aparece en las opciones
 5 - Ahora necesitamos generar una clave SSH (Secure Shell) para GitHub, esto hará que GIT local y GITHUB se comuniquen por medio de una llave de conexión, escribimos el siguiente comando.
 
 ```
-ssh-keygen
+ssh-keygen -t rsa
 ```
 
 Nos va pedir unas confirmaciones para las cuales damos ENTER tres veces, la primera es la ruta donde necesita crear una carpeta ssh para guardar las key, la segunda es generar una frase de seguridad la cual si escribimos algo es posible que luego se nos olvide y no podamos acceder a las key, por ende las dejaremos vacias, la tercera opcion es confirmación de esa clave que generamos para acceder a las key, como en este caso no generamos entonces damos enter también sin escribir nada.
